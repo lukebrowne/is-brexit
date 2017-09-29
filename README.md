@@ -23,7 +23,7 @@ Get a result of Brexit referendum.
 ## Usage Example
 
 ```javascript
-var isBrexit = require('is-brexit');
+const isBrexit = require('is-brexit');
 
 console.log(isBrexit());
 ```
