@@ -3,7 +3,7 @@
  * @description Entry point for is-brexit module.
  * @version 1.0.0
  * @author Anatoliy Gatt [anatoliy.gatt@aol.com]
- * @copyright Copyright (c) 2016 Anatoliy Gatt
+ * @copyright Copyright (c) 2016-2017 Anatoliy Gatt
  * @license MIT
  */
 
