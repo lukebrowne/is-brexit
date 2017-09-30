@@ -1,5 +1,5 @@
-var assert = require('assert');
-var isBrexit = require('../lib/is-brexit');
+const assert = require('assert');
+const isBrexit = require('../lib/is-brexit');
 
 describe('is-brexit', () => {
   describe('init', () => {
